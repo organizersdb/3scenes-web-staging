@@ -1,0 +1,1 @@
+import{f as e,j as a}from"./index-CYxLYMGp.js";import{A as n}from"./ArrowBackward-CmbZnl1A.js";const t=()=>{const s=e(),r=()=>{s(-1)};return a.jsxs("div",{className:"my-3 flex gap-x-2 align-middle",onClick:r,children:[a.jsx(n,{}),a.jsx("span",{children:"返回"})]})};export{t as B};

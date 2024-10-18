@@ -1,0 +1,1 @@
+import{r as o,A as r,j as t,O as a,N as i}from"./index-CYxLYMGp.js";const x=()=>{const{isInitializing:e,authUser:s}=o.useContext(r);return e?t.jsx(t.Fragment,{}):s!=null&&s.id?t.jsx(a,{}):t.jsx(i,{to:"/"})};export{x as default};
