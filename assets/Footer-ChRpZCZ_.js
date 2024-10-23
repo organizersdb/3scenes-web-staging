@@ -1,0 +1,1 @@
+import{j as e}from"./index-D_Je3U8E.js";function o(){return e.jsx("footer",{className:"container mx-auto flex flex-col items-center justify-end py-4 font-sora font-light text-gray-500 md:flex-row md:text-2xl ",children:e.jsx("div",{children:"3scenes.io © 2024"})})}export{o as default};
