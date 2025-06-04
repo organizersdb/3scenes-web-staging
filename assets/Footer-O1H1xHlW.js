@@ -1,0 +1,1 @@
+import{j as t,n as e}from"./index-BIQYzV2u.js";function o(){return t.jsxs("footer",{className:"container mx-auto flex justify-between px-8 py-4 font-sora font-light text-gray-500",children:[t.jsx(e,{to:"/terms-and-conditions",children:"條款與條件"}),t.jsx("div",{children:"3scenes.io © 2024"})]})}export{o as default};
